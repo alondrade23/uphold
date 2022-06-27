@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+Uphold is, without a doubt, a most loved multi-asset trading platform. On this exchange, you can trade gold, silver, platinum, palladium, and more than 117 cryptocurrencies. This exchange gives you the option to buy and sell crypto tokens via more than 27 fiat currencies. Uphold is available on both Android and iOS both type of devices. In case you do not want to use a mobile, you access this exchange by visiting the Uphold.com website. The trick to buying and selling on the Uphold exchange is simple. All you need to do is, create a new Uphold login account and then follow the login procedure to access it on your mobile or computer. You can get the Uphold login mobile app from your App or Play store.
 
-You can use the [editor on GitHub](https://github.com/alondrade23/uphold/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+So, if you are also looking to set up a new Uphold login account then you need to refer to this post as we have explained the complete login and sign-up procedure in the next sections of this post. But before that, ensure that you have email, name, and password details
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+WHAT IS MY UPHOLD ACCOUNT?
 
-### Markdown
+To deal with several cryptocurrencies, Uphold asks you to set up an account on its app or website. If you have recently signed up or you are looking to sign up then you can easily access the Uphold exchange with the help of my Uphold login details.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+UPHOLD FOR DESKTOP: WAY TO USE
+If you are looking to use the Uphold account on the desktop then you can easily do so with the help of the following steps:
 
-```markdown
-Syntax highlighted code block
+Open a browser on your desktop
+Go to the Uphold login page
+If you are new at Uphold, go through the sign-up process
+After logging in, you can use Uphold on desktop
 
-# Header 1
-## Header 2
-### Header 3
+UPHOLD LOG IN TO MY ACCOUNT
+To access a new Uphold account, you need to follow the steps that are given below:
 
-- Bulleted
-- List
+Open the Uphold mobile app or browser
+Go to the https://uphold.com/ page
+Now, type the username and password details
+After that, you need to click ‘Login’ to access your account
 
-1. Numbered
-2. List
+UPHOLD WALLET SIGN UP PROCEDURE
+If you are looking to set up your Uphold crypto wallet then you can approach the steps that are given below:
 
-**Bold** and _Italic_ and `Code` text
+Go to the Uphold.com webpage
+Here, click ‘Get Started’ to visit sign up page
+Feed the required details in the corresponding fields
+On the next page, complete the security verification
+If asked, enable the two-factor authentication process
+Now, you have signed for the Uphold login account
 
-[Link](url) and ![Image](src)
-```
+WAY TO ACCESS UPHOLD WALLET WINDOWS
+To access the Uphold crypto wallet on a Windows computer, you need to follow the path that is given below:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Open a web browser on your Windows computer
+Now, you need to head to the Uphold login page
+After that, type the credentials in the respective fields
+Now, find and click the ‘Login button to access the Uphold wallet
 
-### Jekyll Themes
+CONCLUSION
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alondrade23/uphold/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In short, Uphold exchange comes with an easy-to-use web interface. If you are new at this exchange, you might have to visit the Uphold.com webpage to sign up for a new account. People who are not sure can approach the process that is given above on this page. Make sure to type the correct and current username and password details to access the Uphold loginpage. Hopefully, you have completed the Uphold account setup and login process with the help of this post.
